@@ -1,5 +1,8 @@
 # Casey's answers for Advent of Code 2018
 
+## Table of Contents
++ [Day 01](https://github.com/MadisonGameDev/caseybrant_advent_of_code_2018/pull/1)
+
 ## Purpose
 The purpose of this repo is to be a place for code review/discussion with other Madison Game Dev community members. I structured this as a bare repo and a collection of Pull Requests, since PRs facilitate discussing code. My plan is to leave the PRs open in perpetuity so it's easy to see and add to the discussions.
 
